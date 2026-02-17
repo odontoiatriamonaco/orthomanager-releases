@@ -1,0 +1,11 @@
+{
+  "version": "3.6.0",
+  "build": "2026-02-17T15:30",
+  "minServerVersion": "3.5.0",
+  "downloadUrl": "https://github.com/odontoiatriamonaco/orthomanager-releases/releases/latest/download/OrthoManagerPro_Setup_v3.6.0.exe",
+  "changelog": [
+    "TEST — Questa è una versione di prova",
+    "Verifica sistema aggiornamento automatico",
+    "Se vedi questo banner, funziona!"
+  ]
+}
