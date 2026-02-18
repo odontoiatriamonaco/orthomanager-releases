@@ -1,8 +1,8 @@
 {
-  "version": "v3.8.0",
-  "build": "2026-02-18T13:13",
+  "version": "3.8.0",
+  "build": "2026-02-18T13:17",
   "minServerVersion": "3.5.0",
-  "downloadUrl": "https://github.com/odontoiatriamonaco/orthomanager-releases/releases/latest/download/OrthoManagerPro_Setup_vv3.8.0.exe",
+  "downloadUrl": "https://github.com/odontoiatriamonaco/orthomanager-releases/releases/latest/download/OrthoManagerPro_Setup_v3.8.0.exe",
   "changelog": [
     "Aggiornamento in impostazioni  versione corretta"
   ]
