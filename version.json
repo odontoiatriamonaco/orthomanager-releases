@@ -1,13 +1,9 @@
 {
-  "version": "3.7.0",
-  "build": "2026-02-17T15:45",
+  "version": "v3.8.0",
+  "build": "2026-02-18T13:13",
   "minServerVersion": "3.5.0",
-  "downloadUrl": "https://github.com/odontoiatriamonaco/orthomanager-releases/releases/latest/download/OrthoManagerPro_Setup_v3.7.0.exe",
+  "downloadUrl": "https://github.com/odontoiatriamonaco/orthomanager-releases/releases/latest/download/OrthoManagerPro_Setup_vv3.8.0.exe",
   "changelog": [
-    "Sistema aggiornamento automatico via GitHub",
-    "Banner persistente con notifica nuova versione",
-    "Pannello GDPR/Sicurezza con audit log",
-    "Backup cifrato AES-256 con ripristino",
-    "Fix URL update check"
+    "Aggiornamento in impostazioni  versione corretta"
   ]
 }
