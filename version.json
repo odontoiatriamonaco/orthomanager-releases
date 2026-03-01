@@ -1,10 +1,10 @@
 {
-  "version": "3.9.0",
-  "build": "2026-02-21T12:31",
+  "version": "4.3.0",
+  "build": "2026-03-01T20:14",
   "minServerVersion": "3.5.0",
-  "downloadUrl": "https://github.com/odontoiatriamonaco/orthomanager-releases/releases/latest/download/OrthoManagerPro_Setup_v3.9.0.exe",
+  "downloadUrl": "https://github.com/odontoiatriamonaco/orthomanager-releases/releases/latest/download/OrthoManagerPro_Setup_v4.3.0.exe",
   "changelog": [
-    "View mode migliorato in sezione Cefalo/RX",
-    "Esporta PDF Diagnosi e Trattamento migliorato"
+    "Ambiente Electron (più stabile)",
+    "Galleria migliorata"
   ]
 }
